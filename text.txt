@@ -1,3 +1,9 @@
 This is my first commit 
 
 practice for lazygit
+
+This is my second commit
+
+This is my thrid commit
+
+This is my fourth commit 
